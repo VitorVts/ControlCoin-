@@ -1,4 +1,4 @@
-# ControlCoin-
+# ControlCoin$
 Visão Geral
 Bem-vindo ao nosso aplicativo de Controle Financeiro Pessoal! Este aplicativo está sendo desenvolvido para ajudar você a gerenciar suas finanças de maneira simples e eficiente. Com uma interface amigável e recursos intuitivos, você poderá acompanhar suas despesas, receitas e manter suas finanças sob controle.
 
